@@ -258,7 +258,7 @@
   background-color: #5643ff;
   color: white;
   padding: 3px 10px;
-  font-size: 15px;
+  font-size: 18px;
 }
 .box-icon12 {
   font-size: 20px !important;
@@ -370,6 +370,12 @@
   width: 1em;
   font-size: 1.4rem;
   margin-left: -1em;
+}.content-box-1 ul  li a{
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: navy;
+  /* background-color: goldenrod; */
+  border-radius: 10px;padding: .1rem;
 }
 /* table {
   font-family: arial, sans-serif;
