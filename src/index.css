@@ -38,7 +38,7 @@ label {
   font-weight: 500;
   font-size: 20px;
   line-height: 20px;
-
+margin-top: 2%;
   color: black;
 }
 select {
@@ -132,6 +132,8 @@ table {
   text-transform: capitalize;
 
   color: #202020;
+}form{
+  padding: 2%;
 }
 th {
   text-align: left;
